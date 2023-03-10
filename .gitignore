@@ -1,0 +1,4 @@
+/.angular/cache
+# compiled output
+/dist
+/node_modules
